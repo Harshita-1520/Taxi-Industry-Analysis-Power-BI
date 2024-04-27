@@ -18,7 +18,7 @@ The data consists of 4 tables, these are:
 business optimization.
 - **Market Share Analysis**: share of different cab companies in market 
 ## How to Use the Power BI Dashboard
-Download and install Power BI Desktop.
-Open the taxi industry analysis.pbix file in Power BI Desktop.
-Dive into the visualizations to explore insights dynamically.
-Dashboard Screenshots are available in Snapshots folder.
+- Download and install Power BI Desktop.
+- Open the taxi industry analysis.pbix file in Power BI Desktop.
+- Dive into the visualizations to explore insights dynamically.
+- Dashboard Screenshots are available in Snapshots folder.
