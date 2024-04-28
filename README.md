@@ -10,6 +10,7 @@ The data consists of 4 tables, these are:
 - **Taxi data:** ride information such as date of travel, city, price, cost etc.
 - **City data:** cities, population, users and state.
 - **Transaction data:** consist of information like whether the payment is done by cash or card.
+Link to data : https://www.kaggle.com/datasets/xiyuanwu/taxicab-industry-dataset
 ## Perspectives
 - **Revenue Analysis**: in depth revenue analysis over years, of different companies, cities etc.
 - **Costumer analysis**: in depth analysis of customers of various age and income groups and their genders and their relation with bookings of taxis.
